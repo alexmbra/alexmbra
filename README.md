@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Backend Developer
 ---------------------
 
-I've been working as a software developer for almost 20 years. I started with desktop applications and also on gaming area, but I switch to web development around 8 years ago.
+I've been working as a software developer for almost 20 years. I started with desktop applications and also on gaming area, but I switch to web development around 8 years ago. 
 
 * 🌍  I'm based in Portugal
 * ✉️  You can contact me at [alexmbra@hotmail.com](mailto:alexmbra@hotmail.com)
